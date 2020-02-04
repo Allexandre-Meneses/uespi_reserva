@@ -33,7 +33,7 @@ class _LabInfoState extends State<LabInfo> {
               width: 250.0,
             ),
           ),
-          Text("Lab de informática",
+          Text("LAB de informática",
             style: TextStyle(fontSize: 30.0,
                 fontWeight: FontWeight.w400
             ),
@@ -336,7 +336,7 @@ class _LabInfoReservState extends State<LabInfoReserv> {
               width: 250.0,
             ),
           ),
-          Text("Laboratório de Informática",
+          Text("LAB de Informática",
             style: TextStyle(fontSize: 30.0,
                 fontWeight: FontWeight.w400
             ),
